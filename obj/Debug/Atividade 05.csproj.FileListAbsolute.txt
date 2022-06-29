@@ -1,0 +1,11 @@
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\bin\Debug\Atividade 05.exe.config
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\bin\Debug\Atividade 05.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\bin\Debug\Atividade 05.pdb
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.csproj.AssemblyReference.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade_05.Form1.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade_05.Properties.Resources.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.csproj.GenerateResource.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.csproj.CoreCompileInputs.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\Atividade 05\Atividade 05\obj\Debug\Atividade 05.pdb

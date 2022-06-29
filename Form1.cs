@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Atividade_05
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+       
+
+        private void bntcalc_Click(object sender, EventArgs e)
+        {
+            //Declarar variaveis:
+            double baser = 0;
+            double altura = 0;
+            double area = 0;
+            baser = double.Parse(txtbase.Text);
+            altura = double.Parse(txtaltura.Text);
+            //Atribuindo a conta para a variavel
+            area = (baser * altura) / 2;
+            //Mostrar a resposta
+            lblresposta.Text = area.ToString();
+
+        }
+    }
+}
